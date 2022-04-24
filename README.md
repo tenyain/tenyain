@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hi There</h1>
+
+[![tenyain's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenyain)](https://github.com/tenyain/github-readme-stats)
 
 <!--
 **tenyain/tenyain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
