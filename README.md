@@ -2,6 +2,11 @@
 
 [![tenyain's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenyain)](https://github.com/tenyain/github-readme-stats)
 
+- 🔭 I’m currently working on **Front-end Techs**
+- 🌱 I’m currently learning **[React](https://reactjs.org/)**
+- 📫 How to reach me: [**Mail Me**](mailto:tenyainmoelwin@gmail.com)
+- 🎸 Hobbies: Singing 
+
 <!--
 **tenyain/tenyain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
